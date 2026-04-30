@@ -809,6 +809,11 @@ p {
   gap: 250px;
 }
 
+.nav__div{
+ display: flex;
+ gap: 20px;
+}
+
 .family__h1 {
   margin-bottom: 15px;
 }
@@ -848,8 +853,7 @@ button:active {
 .title {
   font-size: 1.5em;
   font-weight: 900;
-  text-align: center;
-  margin: 0;
+  margin-top: 50px;
 }
 
 .flip-card-inner {
