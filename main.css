@@ -92,6 +92,7 @@ a {
 
 .hero__img {
   width: 360px;
+  border-radius: 12px;
 }
 
 .hero__family {
@@ -853,7 +854,11 @@ button:active {
 .title {
   font-size: 1.5em;
   font-weight: 900;
-  margin-top: 50px;
+  margin-top: 20px;
+}
+
+.title__one{
+  margin-top: 20px;
 }
 
 .flip-card-inner {
