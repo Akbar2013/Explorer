@@ -67,6 +67,18 @@ a {
   cursor: pointer;
 }
 
+.imges__i1{
+  width: 300px;
+  height: 380px;
+  transition: transform 0.4s ease;
+  border-radius: 12px;
+}
+
+
+.imges__i1:hover {
+  transform: scale(1.2); 
+}
+
 .hero__name {
   color: yellowgreen;
   margin-bottom: 70px;
@@ -721,11 +733,11 @@ button:active {
 }
 
 .img__me {
-  width: 350px;
+  width: 300px;
   border-radius: 15px;
   display: flex;
   justify-content: space-between;
-  margin-bottom: 50px-;
+  margin-left: 285px;
 }
 
 /* From Uiverse.io by eslam-hany */
